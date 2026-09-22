@@ -29,3 +29,5 @@ $stmt->execute([
 echo "Admin berhasil dibuat.<br>"; 
 echo "Email: " . htmlspecialchars($email) . "<br>"; 
 echo "Password: " . htmlspecialchars($password);
+
+// ---
